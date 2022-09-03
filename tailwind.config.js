@@ -7,7 +7,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        myRosa1: "rgba(196, 0, 0, 0.03)",
+        myRosa2: "rgba(196, 0, 0, 0.06)",
+        myRosa3: "rgba(196, 0, 0, 0.09)",
         myRed: "#C40000",
+        myLinkColor: "#5F27BD",
+        myLightGray: "#F5F5F5",
         myGray7: "rgba(0, 0, 0, 0.7)",
         myGray5: "rgba(0, 0, 0, 0.5)"
       },

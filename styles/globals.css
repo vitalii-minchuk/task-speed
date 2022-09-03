@@ -4,19 +4,30 @@
 @tailwind utilities;
 
 body {
-  background: #F5F5F5;
+  background: #dad7d7;
   font-family: "Poppins";
 }
 
 .container {
   @apply max-w-screen-desktop mx-auto
 }
+
 .fontTitle {
-  @apply text-4xl text-white phone:text-[56px] font-bold leading-[115%] 
+  @apply text-[36px] text-white phone:text-[56px] font-bold leading-[115%] 
+}
+.fontSubTitle {
+  @apply text-3xl phone:text-[40px] font-bold leading-[130%] 
 }
 .font20 {
-  @apply text-xl leading-[150%] font-normal
+  @apply text-[20px] leading-[150%] font-normal
 }
+.font24 {
+  @apply text-lg phone:text-[24px] leading-[130%]
+}
+.font24Bold {
+  @apply text-[24px] leading-[130%] font-bold
+}
+
 .btnRounded {
   @apply font-semibold text-lg text-white bg-black leading-[18px] rounded-full w-[200px] h-[48px]
 }
