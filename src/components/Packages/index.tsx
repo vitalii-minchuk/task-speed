@@ -5,7 +5,7 @@ import { packages } from "./packagesData";
 const Packages: FC = () => {
   return (
     <div className="container bg-myLightGray">
-      <div className="px-[15px] mx-auto max-w-[1240px] mb-3">
+      <div className="px-[15px] mx-auto max-w-[1240px] pb-3">
         <h2 className="fontSubTitle text-center py-[60px]">
           Explore Site Speed Optimization Service Packages
         </h2>

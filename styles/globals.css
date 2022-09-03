@@ -21,6 +21,12 @@ body {
 .font20 {
   @apply text-[20px] leading-[150%] font-normal
 }
+.font16 {
+  @apply text-[16px] leading-[150%] font-normal
+}
+.font16Bold {
+  @apply text-[16px] leading-[150%] font-bold
+}
 .font24 {
   @apply text-lg phone:text-[24px] leading-[130%]
 }
@@ -29,9 +35,11 @@ body {
 }
 
 .btnRounded {
-  @apply font-semibold text-lg text-white bg-black leading-[18px] rounded-full w-[200px] h-[48px]
+  @apply ease-in duration-300 hover:opacity-80 font-semibold text-lg text-white bg-black leading-[18px] rounded-full w-[200px] h-[48px]
 }
-
 .btnStandard {
-  @apply font-semibold text-xl text-white bg-black leading-[18px] rounded-[5px] w-[226px] h-[60px]
+  @apply ease-in duration-300 hover:opacity-80 font-semibold text-xl text-white bg-black leading-[18px] rounded-[5px] w-[226px] h-[60px]
+}
+.btnStandardRed {
+  @apply ease-in duration-300 hover:opacity-80 font-semibold text-xl text-white bg-myRed leading-[18px] rounded-[5px] w-[226px] h-[60px]
 }

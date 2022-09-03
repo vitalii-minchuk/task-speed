@@ -11,8 +11,10 @@ module.exports = {
         myRosa2: "rgba(196, 0, 0, 0.06)",
         myRosa3: "rgba(196, 0, 0, 0.09)",
         myRed: "#C40000",
+        myBlue: "#48BBFC",
         myLinkColor: "#5F27BD",
         myLightGray: "#F5F5F5",
+        myGray8: "rgba(0, 0, 0, 0.8)",
         myGray7: "rgba(0, 0, 0, 0.7)",
         myGray5: "rgba(0, 0, 0, 0.5)"
       },

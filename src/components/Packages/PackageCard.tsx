@@ -12,7 +12,7 @@ const PackageCard: FC<IPackageCard> = ({ packageCard }) => {
           packageCard.rating === 2 ? "bg-myRosa2" : ""
         } ${
           packageCard.rating === 3 ? "bg-myRosa3" : ""
-        } pb-[40px] rounded-br-[10px] rounded-bl-[10px]`}
+        } mb-[40px] pb-[40px] rounded-br-[10px] rounded-bl-[10px]`}
       >
         <div className="flex items-center justify-center gap-[10px] pt-[40px] pb-[30px]">
           {Array(packageCard.rating)
@@ -92,7 +92,7 @@ const PackageCard: FC<IPackageCard> = ({ packageCard }) => {
         </div>
         <div className="flex-1">
           <p className="font20 text-myGray7">
-            Best for websites under 250 <br /> pages
+            ß Best for websites under 250 <br /> pages
           </p>
         </div>
       </div>
