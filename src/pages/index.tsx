@@ -1,10 +1,12 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import BannerSection from "../components/Banner";
+import Footer from "../components/Footer";
 import Header from "../components/Header";
 import HeroSection from "../components/Hero";
 import InfoSection from "../components/Info";
 import PackagesSection from "../components/Packages";
+import SmallCardsSection from "../components/SmallCards";
 import TableSection from "../components/Table";
 import VideoSection from "../components/Video";
 
@@ -24,7 +26,9 @@ const Home: NextPage = () => {
         <VideoSection />
         <TableSection />
         <InfoSection />
+        <SmallCardsSection />
       </main>
+      <Footer />
     </div>
   );
 };

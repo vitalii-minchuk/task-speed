@@ -8,6 +8,10 @@ body {
   font-family: "Poppins";
 }
 
+input::placeholder {
+  color: #000;
+}
+
 .container {
   @apply max-w-screen-desktop mx-auto
 }
@@ -35,6 +39,9 @@ body {
 }
 .font24 {
   @apply text-lg phone:text-[24px] leading-[130%]
+}
+.font24Medium {
+  @apply text-[24px] leading-[130%] font-medium
 }
 .font24Bold {
   @apply text-[24px] leading-[130%] font-bold

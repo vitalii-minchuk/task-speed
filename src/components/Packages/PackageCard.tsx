@@ -92,7 +92,7 @@ const PackageCard: FC<IPackageCard> = ({ packageCard }) => {
         </div>
         <div className="flex-1">
           <p className="font20 text-myGray7">
-            ß Best for websites under 250 <br /> pages
+            Best for websites under 250 <br /> pages
           </p>
         </div>
       </div>
