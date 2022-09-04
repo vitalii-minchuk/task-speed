@@ -3,7 +3,7 @@ import React, { FC } from "react";
 import BradCrumbs from "../BradCrumbs";
 import HeroContent from "./HeroContent";
 
-const Hero: FC = () => {
+const HeroSection: FC = () => {
   return (
     <div className="container bg-myGray7 px-[15px]">
       <div className="mx-auto pb-[40px] lg:pb-[100px] max-w-[1240px]">
@@ -24,4 +24,4 @@ const Hero: FC = () => {
   );
 };
 
-export default Hero;
+export default HeroSection;

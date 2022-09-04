@@ -5,7 +5,7 @@ import { table1Data, table2Data } from "./tableData";
 const TableSection: FC = () => {
   return (
     <div className="container bg-myLightGray">
-      <div className="px-[15px] max-w-[1240px] mx-auto">
+      <div className="px-[15px] max-w-[1240px] mx-auto pb-[40px] sm:pb-[80px]">
         <h2 className="fontSubTitle text-center pt-[50px] phone:pt-[150px] pb-[30px]">
           Muscled provides Site Speed Optimization Services
         </h2>

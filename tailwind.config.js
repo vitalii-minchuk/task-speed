@@ -14,9 +14,11 @@ module.exports = {
         myBlue: "#48BBFC",
         myLinkColor: "#5F27BD",
         myLightGray: "#F5F5F5",
+        myLightGray2: "#F2F2F2",
         myGray8: "rgba(0, 0, 0, 0.8)",
         myGray7: "rgba(0, 0, 0, 0.7)",
-        myGray5: "rgba(0, 0, 0, 0.5)"
+        myGray5: "rgba(0, 0, 0, 0.5)",
+        myGray3: "rgba(0, 0, 0, 0.3)"
       },
       fontFamily: {
         body: ["Poppins"],

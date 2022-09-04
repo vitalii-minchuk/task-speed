@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React, { FC } from "react";
 
-const Banner: FC = () => {
+const BannerSection: FC = () => {
   return (
     <div className="container bg-white">
       <div className="py-[50px] mx-auto max-w-[1240px]">
@@ -64,4 +64,4 @@ const Banner: FC = () => {
   );
 };
 
-export default Banner;
+export default BannerSection;

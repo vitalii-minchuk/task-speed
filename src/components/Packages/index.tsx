@@ -2,7 +2,7 @@ import React, { FC } from "react";
 import PackageCard from "./PackageCard";
 import { packages } from "./packagesData";
 
-const Packages: FC = () => {
+const PackagesSection: FC = () => {
   return (
     <div className="container bg-myLightGray">
       <div className="px-[15px] mx-auto max-w-[1240px] pb-3">
@@ -24,4 +24,4 @@ const Packages: FC = () => {
   );
 };
 
-export default Packages;
+export default PackagesSection;

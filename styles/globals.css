@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -20,6 +20,12 @@ body {
 }
 .font20 {
   @apply text-[20px] leading-[150%] font-normal
+}
+.font20Medium {
+  @apply text-[20px] leading-[150%] font-medium
+}
+.font20Bold {
+  @apply text-[20px] leading-[150%] font-bold
 }
 .font16 {
   @apply text-[16px] leading-[150%] font-normal
