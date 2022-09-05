@@ -15,8 +15,12 @@ const FooterContact: FC = () => {
             />
           </div>
           <div className="pb-[20px] phone:flex-1">
-            <p className="text-white pb-[20px] xl:text-[18px] font-semibold">Ready to speak with a marketing expert? Give us a ring</p>
-            <p className="text-white text-bold text-2xl xl:text-[40px] font-semibold">508-504-9466</p>
+            <p className="text-white pb-[20px] xl:text-[18px] font-semibold">
+              Ready to speak with a marketing expert? Give us a ring
+            </p>
+            <p className="text-white text-bold text-2xl xl:text-[40px] font-semibold">
+              508-504-9466
+            </p>
           </div>
           <div className="w-full lg:flex-1 phone:flex justify-between items-start gap-[20px]">
             <div className="w-full pb-[20px] text-end">

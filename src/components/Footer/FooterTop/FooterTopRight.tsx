@@ -24,8 +24,13 @@ const FooterTopRight: FC = () => {
                 {Array(6)
                   .fill(0)
                   .map((_, i) => (
-                    <div key={i} className="w-[25px] h-[40px] sm:w-[50px] xl:w-[66px] xl:h-[78px] grid place-content-center phone:rounded-[8px] bg-gradient-to-t from-[#CBDDFF] to-white">
-                      <p className="text-myRed lg:text-[40px] font-semibold">6</p>
+                    <div
+                      key={i}
+                      className="w-[25px] h-[40px] sm:w-[50px] xl:w-[66px] xl:h-[78px] grid place-content-center phone:rounded-[8px] bg-gradient-to-t from-[#CBDDFF] to-white"
+                    >
+                      <p className="text-myRed lg:text-[40px] font-semibold">
+                        6
+                      </p>
                     </div>
                   ))}
               </div>

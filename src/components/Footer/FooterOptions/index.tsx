@@ -27,14 +27,41 @@ const FooterOPtions: FC = () => {
               WebFX® 1995-2022 | Celebrating 25+ Years of Digital Marketing
               Excellence
             </p>
-            <p className="text-white text-[14px] text-start">Call Toll Free: 508-504-9466 Privacy & Terms of Use Sitemap </p>
+            <p className="text-white text-[14px] text-start">
+              Call Toll Free: 508-504-9466 Privacy & Terms of Use Sitemap{" "}
+            </p>
           </div>
           <div className="flex flex-wrap desktop:flex-nowrap justify-between items-center gap-[24px]">
-              <Image width={138} height={50} src={"/images/footer1.png"} alt="footer logo" />
-              <Image width={86} height={84} src={"/images/footer2.png"} alt="footer logo" />
-              <Image width={61} height={60} src={"/images/footer3.png"} alt="footer logo" />
-              <Image width={114} height={58} src={"/images/footer4.png"} alt="footer logo" />
-              <Image width={179} height={48} src={"/images/footer5.png"} alt="footer logo" />
+            <Image
+              width={138}
+              height={50}
+              src={"/images/footer1.png"}
+              alt="footer logo"
+            />
+            <Image
+              width={86}
+              height={84}
+              src={"/images/footer2.png"}
+              alt="footer logo"
+            />
+            <Image
+              width={61}
+              height={60}
+              src={"/images/footer3.png"}
+              alt="footer logo"
+            />
+            <Image
+              width={114}
+              height={58}
+              src={"/images/footer4.png"}
+              alt="footer logo"
+            />
+            <Image
+              width={179}
+              height={48}
+              src={"/images/footer5.png"}
+              alt="footer logo"
+            />
           </div>
         </div>
       </div>
