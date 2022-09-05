@@ -7,7 +7,7 @@ interface IBigTable {
 }
 const BigTable: FC<IBigTable> = ({ data }) => {
   return (
-    <div className="rounded-[10px] overflow-x-auto">
+    <div className="rounded-[10px] overflow-x-auto pb=[40px]">
       <table className="table-fixed">
         <tbody>
           {data?.map((cell, index) => (
