@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { ArrowSvg } from "../../../svgs/Arrow";
 
 const NavBar = () => {

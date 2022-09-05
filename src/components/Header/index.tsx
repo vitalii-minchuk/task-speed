@@ -1,9 +1,7 @@
 import Image from "next/image";
 import React, { FC } from "react";
-import { ArrowSvg } from "../../svgs/Arrow";
 import NavBar from "./NavBar";
 
-const wrapper = "";
 const Header: FC = () => {
   return (
     <header>

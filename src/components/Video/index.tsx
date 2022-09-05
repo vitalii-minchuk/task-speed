@@ -11,7 +11,7 @@ const VideoSection: FC = () => {
         </h2>
         <div className="max-w-[1000px] mx-auto">
           <p className="font20 text-center pb-[40px]">
-            Want to improve your website's user experience and rankings by
+            Want to improve your website&lsquos user experience and rankings by
             increasing its speed? Muscled is always ready to help you. We
             provide three different website speed optimization service packages
             that can assist your website in loading at top speeds. Some of the

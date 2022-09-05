@@ -34,8 +34,8 @@ const InfoItem_8: FC = () => {
       <p className="font20 pb-[20px] phone:pb-[40px]">
         Where do Muscled credentials come from? We strive to create the best,
         most successful campaigns for our clients by employing over 450 digital
-        marketing specialists. We're getting closer to our goal every day by
-        generating revenue and leads for our clients — in fact, we've generated
+        marketing specialists. We&lsquore getting closer to our goal every day by
+        generating revenue and leads for our clients — in fact, we&lsquove generated
         over $3 billion in revenue and 7.8 million qualified leads for them so
         far.
       </p>

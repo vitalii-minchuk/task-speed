@@ -8,9 +8,13 @@ const VideoContent: FC = () => {
         months, I have already seen significant improvement in rankings and
         conversions, and they have also greatly improved the speed of my site.”
       </p>
-      <p className="font24Bold leading-[150%] text-white pb-[30px]">Sara Feldstein</p>
+      <p className="font24Bold leading-[150%] text-white pb-[30px]">
+        Sara Feldstein
+      </p>
       <p className="font20 text-white  pb-[60px]">Barumba</p>
-      <button className="btnStandardRed phone:min-w-[376px]">See Our Clients’ Testimonials</button>
+      <button className="btnStandardRed phone:min-w-[376px]">
+        See Our Clients’ Testimonials
+      </button>
     </div>
   );
 };
