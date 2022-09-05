@@ -8,7 +8,7 @@ const InfoItem_5: FC = () => {
       </h2>
       <p className="font20 pb-[20px] phone:pb-[40px]">
         Do you want to learn how to optimize the speed of your website? Here are
-        a few of our favorite web optimization tools for determining your site's
+        a few of our favorite web optimization tools for determining your site&lsquos
         page speed and determining what needs to be done to improve it.
       </p>
       <p className="font20Bold pb-[10px]">1. Google Search Console</p>
@@ -16,7 +16,7 @@ const InfoItem_5: FC = () => {
         Google Search Console is probably the best free tool for assisting you
         with your website speed optimization efforts. It provides you with all
         of the valuable information you need to thoroughly measure your website
-        traffic, understand your site's performance, and get advice on how to
+        traffic, understand your site&lsquos performance, and get advice on how to
         fix the most visible issues on your website.
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
@@ -29,7 +29,7 @@ const InfoItem_5: FC = () => {
           <span className="font20Medium">
             The Largest Contentful Paint (LCP)
           </span>{" "}
-          metric measures the time it takes for the page's main content to
+          metric measures the time it takes for the page&lsquos main content to
           become visible in comparison to when the page first loaded.
         </li>
         <li className="font20">
@@ -40,7 +40,7 @@ const InfoItem_5: FC = () => {
         </li>
         <li className="font20">
           <span className="font20Medium">Cumulative Layout Shift (CLS)</span>{" "}
-          involves measuring graphic stability, or how much a page's layout
+          involves measuring graphic stability, or how much a page&lsquos layout
           moves unexpectedly.
         </li>
       </ul>
@@ -49,7 +49,7 @@ const InfoItem_5: FC = () => {
       <p className="font20 pb-[20px] phone:pb-[40px]">
         When it comes to page optimization, Pingdom has a lot of information.
         First, it offers reports split into four sections. It provides
-        information such as a performance grade, the page's history, an
+        information such as a performance grade, the page&lsquos history, an
         analysis, and much more. They also offer some suggestions for where you
         can improve your website.
       </p>
@@ -70,7 +70,7 @@ const InfoItem_5: FC = () => {
         address, you will receive a full PDF copy of the results.
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
-        One of the best features of the tool? You can include a competitor's URL
+        One of the best features of the tool? You can include a competitor&lsquos URL
         to see how it compares to yours!
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">

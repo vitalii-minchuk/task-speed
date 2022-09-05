@@ -22,7 +22,7 @@ const FooterOPtions: FC = () => {
         </div>
         <div className="h-[1px] mx-[-30px] bg-white"></div>
         <div className="pt-[61px] flex flex-wrap xl:flex-nowrap gap-[50px]">
-          <div className="">
+          <div>
             <p className="pb-[20px] text-white text-[14px] text-start">
               WebFX® 1995-2022 | Celebrating 25+ Years of Digital Marketing
               Excellence

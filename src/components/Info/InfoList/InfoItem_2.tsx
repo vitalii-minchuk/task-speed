@@ -8,14 +8,14 @@ const InfoItem_2: FC = () => {
         a website?
       </h2>
       <p className="font20 pb-[40px] phone:pb-[115px]">
-        Simple! It's not just what your visitors want; it's also what Google
+        Simple! It&lsquos not just what your visitors want; it&lsquos also what Google
         wants. There is a link between page speed and SEO, which is why your
         pages must load quickly.
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
-        Google's primary responsibility is to provide users with search results
+        Google&lsquos primary responsibility is to provide users with search results
         that are relevant to their queries. Not only do search engines want to
-        show pages with content that best matches the user's query, but they
+        show pages with content that best matches the user&lsquos query, but they
         also want to show websites that provide an excellent user experience.
         And, you guessed it, page speed is an important component of a positive
         user experience.
@@ -48,7 +48,7 @@ const InfoItem_2: FC = () => {
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
         This shows the importance of page speed. Website speed can deter users
-        from visiting your site in the first place, which means they won't learn
+        from visiting your site in the first place, which means they won&lsquot learn
         about your company, see your products and services, or read your useful
         information. Most of the time, they will not convert.
       </p>
@@ -61,12 +61,12 @@ const InfoItem_2: FC = () => {
         your desktop and mobile rankings.
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
-        This means that when it comes to website speed optimization, it's
+        This means that when it comes to website speed optimization, it&lsquos
         critical to keep mobile in mind.
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
         Page speed optimization for mobile devices works in the same way that it
-        does for desktop computers. Of course, you'll want to make sure your
+        does for desktop computers. Of course, you&lsquoll want to make sure your
         site is mobile-friendly in the first place! This means your website is
         effective and simple to use on smaller screens as well!
       </p>
@@ -91,8 +91,8 @@ const InfoItem_2: FC = () => {
           be slowing down your site.
         </li>
         <li className="font20">
-          You'll most likely see larger gains initially and incremental gains
-          over time, but small, incremental gains will keep your site's page
+          You&lsquoll most likely see larger gains initially and incremental gains
+          over time, but small, incremental gains will keep your site&lsquos page
           speed under control.
         </li>
       </ol>

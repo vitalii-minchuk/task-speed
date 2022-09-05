@@ -7,7 +7,7 @@ const InfoItem_1: FC = () => {
         The difference between page and site speed
       </h2>
       <p className="font20 pb-[20px] phone:pb-[40px]">
-        Page speed and site speed both refer to how quickly your website's
+        Page speed and site speed both refer to how quickly your website&lsquos
         content loads, but there is a technical distinction between the two
         terms.
       </p>
@@ -27,7 +27,7 @@ const InfoItem_1: FC = () => {
       </ul>
       <p className="font20 pb-[20px] phone:pb-[40px]">
         The speed at which your entire website loads is measured as site speed.
-        It is calculated by averaging the page speed of a sample of your site's
+        It is calculated by averaging the page speed of a sample of your site&lsquos
         page views.
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
@@ -36,7 +36,7 @@ const InfoItem_1: FC = () => {
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
         Page speed, site speed, and website speed are all closely related terms
-        that affect your site's user experience and rankings. export default
+        that affect your site&lsquos user experience and rankings. export default
         InfoItem_1;
       </p>
     </div>

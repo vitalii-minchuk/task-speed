@@ -4,7 +4,7 @@ const InfoItem_7: FC = () => {
   return (
     <div>
       <h2 className="fontSubTitle pb-[40px]">
-        How much does it cost to optimize a website's speed?
+        How much does it cost to optimize a website&lsquos speed?
       </h2>
       <p className="font20 pb-[20px] phone:pb-[40px]">
         Every agency will most likely charge a slightly different fee for their
@@ -18,8 +18,8 @@ const InfoItem_7: FC = () => {
       <p className="font20Bold pb-[10px]">Dedicated project point of contact</p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
         At Muscled , we truly think that you should have a single point of
-        contact throughout the duration of your campaign. Why? That way, you'll
-        always know who you're talking to. Your point of contact will be
+        contact throughout the duration of your campaign. Why? That way, you&lsquoll
+        always know who you&lsquore talking to. Your point of contact will be
         familiar with and understand your campaign, and you will not have to be
         moved to three different people to get an answer.
       </p>
@@ -41,7 +41,7 @@ const InfoItem_7: FC = () => {
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
         We will analyze your current server configuration to determine what your
-        site requires to be fast. We'll then specify what needs to be improved
+        site requires to be fast. We&lsquoll then specify what needs to be improved
         to make your site run faster.
       </p>
       <p className="font20Bold pb-[10px]">"If needed" basis</p>
@@ -58,7 +58,7 @@ const InfoItem_7: FC = () => {
       <p className="font20 pb-[20px] phone:pb-[40px]">And much more </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
         Why should you hire Muscled to optimize your page speed? Check out the
-        typical results we're able to accomplish for our page speed customers.
+        typical results we&lsquore able to accomplish for our page speed customers.
       </p>
     </div>
   );

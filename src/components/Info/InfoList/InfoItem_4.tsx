@@ -33,7 +33,7 @@ const InfoItem_4: FC = () => {
       <p className="font20 pb-[20px] phone:pb-[40px]">
         The use of graphics on your website is critical to providing a positive
         user experience. When you provide a full page of information, for
-        example, it's important to break it up with images, graphics, or video
+        example, it&lsquos important to break it up with images, graphics, or video
         to keep the reader from becoming bored.
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
@@ -46,13 +46,13 @@ const InfoItem_4: FC = () => {
         high-resolution photos.
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
-        So, how can you be sure that your site's graphics provide a great user
+        So, how can you be sure that your site&lsquos graphics provide a great user
         experience while maintaining a quick page load time? Improve your
         graphics!
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
         Consider using a tool like Kraken.io to compress your image files so
-        they aren't as large. It will not change the visual size of the image,
+        they aren&lsquot as large. It will not change the visual size of the image,
         but it will reduce the file size so that it takes less time to load on
         your website.
       </p>
@@ -73,8 +73,8 @@ const InfoItem_4: FC = () => {
       <p className="font20 pb-[20px] phone:pb-[40px]">
         One of the simpler factors to understand is that the bigger the distance
         between your server and your website is, the longer it will take to
-        load. Having said that, it's important to be aware of where your server
-        is located. If your company is based in the United States, don't choose
+        load. Having said that, it&lsquos important to be aware of where your server
+        is located. If your company is based in the United States, don&lsquot choose
         a server in China.
       </p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
@@ -83,7 +83,7 @@ const InfoItem_4: FC = () => {
       </p>
       <ul className="list-disc pl-[30px] pb-[20px] phone:pb-[40px]">
         <li className="font20">
-          A user types your URL into their browser's search bar or visits your
+          A user types your URL into their browser&lsquos search bar or visits your
           website via a search engine such as Google.
         </li>
         <li className="font20">
@@ -96,7 +96,7 @@ const InfoItem_4: FC = () => {
         </li>
       </ul>
       <p className="font20 pb-[20px] phone:pb-[40px]">
-        Your server's quality is determined by whether it is shared or
+        Your server&lsquos quality is determined by whether it is shared or
         dedicated:
       </p>
       <ul className="list-disc pl-[30px] pb-[20px] phone:pb-[40px]">

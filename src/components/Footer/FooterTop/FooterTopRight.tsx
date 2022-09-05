@@ -18,7 +18,7 @@ const FooterTopRight: FC = () => {
             </div>
             <div>
               <p className="text-white font-semibold text-base phone:text-[24px] leading-[39px]">
-                We've driven over
+                We&lsquove driven over
               </p>
               <div className="flex gap-[9px]">
                 {Array(6)
