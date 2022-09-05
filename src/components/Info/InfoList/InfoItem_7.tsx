@@ -44,9 +44,9 @@ const InfoItem_7: FC = () => {
         site requires to be fast. We&lsquoll then specify what needs to be improved
         to make your site run faster.
       </p>
-      <p className="font20Bold pb-[10px]">"If needed" basis</p>
+      <p className="font20Bold pb-[10px]">&lquotIf needed&lquot basis</p>
       <p className="font20 pb-[20px] phone:pb-[40px]">
-        We can do the following on an "if needed" basis:
+        We can do the following on an &lquotif needed&lquot basis:
       </p>
       <ol className="list-decimal pl-[30px]">
         <li className="font20">CSS/website optimization</li>
